@@ -2,14 +2,13 @@
 I am a First-Year Engineering student currently focused on building a strong foundation in programming logic and mathematics.
 
 ACADEMIC ROADMAP
-Pursuing: B.Tech
+Pursuing: B.Tech in Electronics and Telecommunication Engineering
 Current Focus: Mastering problem solving and programming fundamentals
 Tools: Learning VS Code, Git, and command-line basics
 
-CODING GOALS
-Learning Python thoroughly
-Maintain systematic archive of all my college lab assignments
-Discover which domain of technology excites ms the most
+GOALS
+Moving away from isolated scripts to building real, collaborative projects.
+
 
 <!--
 **Suhana-Pixels/Suhana-Pixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
